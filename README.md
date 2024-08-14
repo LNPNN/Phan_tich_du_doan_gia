@@ -1,6 +1,6 @@
 ## Mục lục
 - [Phân tích và dự đoán giá Laptop](https://github.com/LNPNN/Phan_tich_du_doan_gia?tab=readme-ov-file#ph%C3%A2n-t%C3%ADch-v%C3%A0-d%E1%BB%B1-%C4%91o%C3%A1n-gi%C3%A1-laptop)
-- [Quy trình phân tíhc dữ liệu](https://github.com/LNPNN/Phan_tich_du_doan_gia/edit/main/README.md#quy-tr%C3%ACnh-ph%C3%A2n-t%C3%ADch)
+- [Quy trình phân tích dữ liệu](https://github.com/LNPNN/Phan_tich_du_doan_gia?tab=readme-ov-file#quy-tr%C3%ACnh-ph%C3%A2n-t%C3%ADch)
 - [Bộ dữ liệu](https://github.com/LNPNN/Phan_tich_du_doan_gia?tab=readme-ov-file#b%E1%BB%99-d%E1%BB%AF-li%E1%BB%87u)
 - [Thư viện](https://github.com/LNPNN/Phan_tich_du_doan_gia?tab=readme-ov-file#th%C6%B0-vi%E1%BB%87n)
 - [Mô hình dự đoán](https://github.com/LNPNN/Phan_tich_du_doan_gia?tab=readme-ov-file#m%C3%B4-h%C3%ACnh-d%E1%BB%B1-%C4%91o%C3%A1n)
