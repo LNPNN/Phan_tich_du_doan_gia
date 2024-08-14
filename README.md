@@ -23,7 +23,8 @@ Phương pháp train_test_split: được sử dụng để chia dữ liệu th�
 Các thuật toán máy học: Random Forest Regressor, Xgboost, K-Neighbors Regressor, Decision Tree Regressor là một số thuật toán đã được sử dụng để huấn luyện mô hình. Từ đó chọn ra mô hình cho kết quả huấn luyện tốt nhất.
 - Đánh giá kết quả:
 Sau khi phân tích và xây dựng mô hình dự đoán dựa trên dữ liệu giá, nhóm sẽ dựa vào những kiến thức đã học để đưa ra những kết luận về các biến gần mức đối xứng, mất đối xứng, những ảnh hưởng của các biến đối với giá cả, kết luận được các hãng, loại máy,... được bán ra với số lượng như thế nào và đưa ra lựa chọn mô hình huấn luyện dự trên kết quả huấn luyện.
-![image](https://github.com/user-attachments/assets/5f24fcf2-b6b2-4610-9582-f2b7bb96d6a8)
+![image](https://github.com/user-attachments/assets/131c8c55-8c53-49d0-950e-ab850bba7ec2)
+
 # Bộ dữ liệu
 Bộ dữ liệu về giá cả laptop, cung cấp thông tin chi tiết về các đặc điểm kĩ thuật và thuộc tính của từng loại sản phẩm gây ảnh hưởng trực tiếp tới giá cả. Bộ dữ liệu chứa các thông tin đa dạng về các yếu tố quan trọng như: tên máy, hãng sản xuất, dòng sản phẩm, tình trạng hiện tại, kích cỡ màn hình, chính sách bảo hành, bộ vi xử lý, dung lượng RAM, loại và dung lượng ổ cứng, xuất xứ, card đồ họa và giá cả tương ứng.
 [Bộ dữ liệu](https://drive.google.com/drive/folders/1erbISKeFVsviivvYiiWvlA1qq17gapEs)
